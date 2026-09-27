@@ -75,5 +75,4 @@ predict_news("Senate committee to review new infrastructure spending bill next w
 ## Dataset Source
 [Kaggle — Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) by Clément Bisaillon
 
-## Author
-Isha
+
